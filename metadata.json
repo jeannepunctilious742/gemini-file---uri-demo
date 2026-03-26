@@ -1,0 +1,5 @@
+{
+  "name": "Gemini File & URI Demo",
+  "description": "A tool to send prompts accompanied by file URIs to the Gemini API, including public URLs and signed URLs (AWS S3, Azure Blob, etc.).",
+  "requestFramePermissions": []
+}
